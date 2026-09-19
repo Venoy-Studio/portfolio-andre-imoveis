@@ -1,61 +1,60 @@
-﻿# 🏢 André Nascimento Imóveis
+﻿# âœ¨ Andre Nascimento Imoveis
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JavaScript-blue?style=for-the-badge" alt="Stack Badge" />
+  <img src="https://img.shields.io/badge/Status-Concluido-success?style=for-the-badge" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JS-blue?style=for-the-badge" alt="Stack Badge" />
   <img src="https://img.shields.io/badge/Design-Mobile%20First-ff69b4?style=for-the-badge" alt="Mobile First" />
-  <img src="https://img.shields.io/badge/Agência-Venoy%20Studio-purple?style=for-the-badge" alt="Venoy Studio" />
+  <img src="https://img.shields.io/badge/Agencia-Venoy%20Studio-purple?style=for-the-badge" alt="Venoy Studio" />
 </p>
 
 ---
 
-## 📖 Sobre o Projeto
+## ðŸ“– Sobre o Projeto
 
-O **André Nascimento Imóveis** é uma landing page imobiliária focada na apresentação elegante de empreendimentos e imóveis de alto padrão. Projetada para proporcionar uma navegação fluida e direta, o site prioriza a conversão de leads qualificados através de canais diretos de contato e agendamento de visitas.
+O **Andre Nascimento Imoveis** e um projeto desenvolvido com foco em alta performance, identidade visual marcante e maxima taxa de conversao. Inserido no segmento de **Imobiliaria & Corretagem de Alto Padrao**, a interface foi desenhada para entregar uma experiencia intuitiva e profissional tanto em dispositivos moveis quanto em computadores.
 
-### 🎯 Proposta de Valor
-- **Apresentação Visual Premium**: Fotografias em alta resolução e tipografia sóbria transmitindo autoridade e sofisticação no mercado imobiliário.
-- **Localização Interativa**: Integração com mapa interativo (Leaflet) para destacar a localização privilegiada dos imóveis.
-- **Foco em Conversão**: Botões estratégicos para contato direto via WhatsApp e agendamento com o corretor.
+Landing page imobiliaria de alto padrao focada em imoveis exclusivos, localizacao interativa e geracao de leads.
 
----
-
-## ✨ Funcionalidades e Destaques
-
-- [x] **Design Responsivo & Mobile First**: Experiência de visualização impecável em smartphones, tablets e desktops.
-- [x] **Galeria e Catálogo de Imóveis**: Cards detalhados com especificações técnicas (metragem, dormitórios, vagas e valores).
-- [x] **Mapa Interativo Integrado**: Visualização geográfica precisa da região e pontos de interesse do empreendimento.
-- [x] **Call to Action (CTA) Estratégico**: Encaminhamento direto de interessados para atendimento personalizado.
-- [x] **Performance Ultra-Rápida**: Estrutura leve em Vanilla HTML/CSS/JS com tempo de carregamento instantâneo.
+### ðŸŽ¯ Diferenciais do Projeto
+- **Experiencia do Usuario (UX)** fluida com navegacao intuitiva e design responsivo.
+- **Chamadas Estrategicas para Acao (CTA)** que facilitam o contato do cliente e aumentam o engajamento.
+- **Identidade Visual Autoral** alinhada com as melhores praticas de design contemporaneo.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## âœ¨ Funcionalidades e Destaques
 
-- **HTML5 Semântico**: Estrutura acessível e otimizada para SEO local.
-- **CSS3 Moderno**: Flexbox, CSS Grid, variáveis e transições suaves.
-- **JavaScript (ES6+)**: Comportamento interativo dinâmico e manipulação de DOM.
-- **Leaflet.js**: Biblioteca de mapas interativos leve e de alta performance.
+- [x] **100% Responsivo & Mobile First**: Layout adaptavel a qualquer resolucao de tela.
+- [x] **Otimizacao de Performance**: Carregamento agil de imagens e codigo limpo.
+- [x] **Componentes Interativos**: Menus dinamicos, modais e transicoes suaves.
+- [x] **SEO Friendly**: Metatags essenciais configuradas para motores de busca.
+- [x] **Integracao Comercial**: Acesso rapido a canais de atendimento e redes sociais.
 
 ---
 
-## 🚀 Como Executar Localmente
+## ðŸ› ï¸ Tecnologias Utilizadas
 
-Como o projeto é construído em Vanilla Web, não é necessária nenhuma etapa complexa de build.
+- **Core**: HTML5 | CSS3 | JavaScript | Leaflet.js
+- **Estilizacao**: CSS3 Moderno, Tailwind CSS ou componentes customizados.
+- **Iconografia**: Lucide Icons / SVGs otimizados.
+- **Arquitetura**: Codigo modular, limpo e de facil manutencao.
 
-1. **Clone o repositório:**
-   `ash
+---
+
+## ðŸš€ Como Executar Localmente
+
+1. **Clone o repositorio:**
+   ``bash
    git clone https://github.com/Venoy-Studio/portfolio-andre-imoveis.git
    cd portfolio-andre-imoveis
-   `
+   ``
 
-2. **Abra o projeto:**
-   - Basta abrir o arquivo index.html em qualquer navegador web moderno.
-   - Ou execute com extensões como o **Live Server** no VS Code.
+2. **Iniciar a aplicacao:**
+   Abra o arquivo `index.html` em qualquer navegador web ou utilize a extensao Live Server.
 
 ---
 
-## 👨‍💻 Desenvolvido por
+## ðŸ‘¨â€ðŸ’» Desenvolvido por
 
-Projeto desenvolvido com excelência pela **[Venoy Studio](https://github.com/Venoy-Studio)**.  
-Responsável técnico: **[Paulo Venoy](https://github.com/paulovenoy)**.
+Projeto desenvolvido com excelencia pela **[Venoy Studio](https://github.com/Venoy-Studio)**.  
+Responsavel tecnico: **[Paulo Venoy](https://github.com/paulovenoy)**.
